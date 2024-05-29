@@ -4,7 +4,7 @@ TermHand is a command-line tool that generates terminal commands from natural la
 
 ## Installation
 
-Install from PyPI:
+Install from [PyPI](https://pypi.org/project/TermHand):
 
 ```sh
 pip install termhand
