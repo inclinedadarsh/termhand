@@ -1,3 +1,5 @@
+![termhand_cover](https://github.com/inclinedadarsh/termhand/assets/84132532/cef0191d-ad54-4a7f-b1e1-b7bd9cd6d395)
+
 # TermHand
 
 TermHand is a command-line tool that generates terminal commands from natural language prompts.
